@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Google This"
+  },
+  "extensionDescription": {
+    "message": "Adds a \"Google this\" action to the PDF/EPUB reader selection context menu."
+  },
+  "menuGoogleThis": {
+    "message": "Google this"
+  }
+}

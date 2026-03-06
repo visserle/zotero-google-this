@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "google-this@visser.dev": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://github.com/visser/zotero-google-this/releases/download/v1.0.0/zotero-google-this-1.0.0.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "8.0",
+              "strict_max_version": "8.0.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
