@@ -1,4 +1,4 @@
-![pls google before reinventing calculus](image-3.png)
+![pls google before reinventing calculus](image.png)
 
 # Zotero Google This
 
