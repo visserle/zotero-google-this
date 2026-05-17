@@ -2,11 +2,11 @@
 
 # Zotero Google This
 
-Adds `Google this` to the right-click context menu for selected text in Zotero's PDF and EPUB readers. Requires Zotero 8.x.
+Adds `Google this` to the right-click context menu for selected text in Zotero's PDF and EPUB readers. Requires Zotero 7.x, 8.x, or 9.0.x.
 
 ## Installation
 
-1. Download `zotero-google-this-1.0.0.xpi` from GitHub releases.
+1. Download `zotero-google-this-1.0.1.xpi` from GitHub releases.
 2. In Zotero, open `Tools` -> `Plugins`.
 3. Click the gear icon -> `Install Plugin From File...`.
 4. Select the `.xpi` file.

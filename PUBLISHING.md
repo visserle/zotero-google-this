@@ -6,17 +6,17 @@
 ./build.sh
 ```
 
-Expected output: `zotero-google-this-1.0.0.xpi`
+Expected output: `zotero-google-this-1.0.1.xpi`
 
 ## 2) Create a GitHub release
 
-1. Tag: `v1.0.0`
-2. Release title: `Google This v1.0.0`
-3. Upload asset: `zotero-google-this-1.0.0.xpi`
+1. Tag: `v1.0.1`
+2. Release title: `Google This v1.0.1`
+3. Upload asset: `zotero-google-this-1.0.1.xpi`
 
 The `updates.json` file expects this release URL:
 
-`https://github.com/visser/zotero-google-this/releases/download/v1.0.0/zotero-google-this-1.0.0.xpi`
+`https://github.com/visser/zotero-google-this/releases/download/v1.0.1/zotero-google-this-1.0.1.xpi`
 
 ## 3) Verify update feed
 
